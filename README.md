@@ -1,1 +1,1 @@
-# Qt_TcpChatClient_Server
+# Qt_Tcp_Chat_Client_Server
