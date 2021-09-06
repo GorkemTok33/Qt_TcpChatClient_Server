@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/main/data/picture">
+        <file>web-hosting.png</file>
+    </qresource>
+</RCC>
