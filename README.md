@@ -1,5 +1,5 @@
 # Qt_Tcp_Chat_Client_Server!
-<img src = "https://user-images.githubusercontent.com/79594881/137640300-e1798179-364c-4207-afc1-f4b63a9df076.png" width = "550px" height = "400px" align = "left"> </img>
+<img src = "https://user-images.githubusercontent.com/79594881/137640300-e1798179-364c-4207-afc1-f4b63a9df076.png" width = "600px" height = "400px" align = "left"> </img>
 Author: GÖRKEM TOK <br>
 Preview video link: -- <br>
 Email: ceng.gorkem.tok@gmail.com <br>
