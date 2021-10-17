@@ -12,10 +12,14 @@ Language: C++ <br>
 <img src = "https://user-images.githubusercontent.com/79594881/137640926-7ef7700d-8b3d-4207-825d-2805c95567ed.png"> </img>
 <p>With server app you can control the server. You can see all connected clients status like ( did it pass password check, seeing ip address and chat name, seeing chat room messages). You can control the server like managing server client capacity, securing the server (client password check for accesing the server, declining same ip address clients) etc.</p> 
 <h3>SERVER COMMANDS</h3>
+<img src = "https://user-images.githubusercontent.com/79594881/137641187-c91902f0-79b6-4938-a74b-a9a2990e5a04.png" align = "right"> </img>
 <p>
-<b>\\clr</b> : clean the console<br>
-<b>\\help</b> : shows console commands<br>
-<b>\\mute</b> : disable message sending feature of matched chat name client<br>
-  <b>\\unmute</b> : enable message sending feature of matched chat name client<br>
-  <b>\\discnt</b> : disconnect matched chat name from server<br>
-</p>
+<br>
+<b>\\clr</b> : clean the console<br><br>
+<b>\\help</b> : shows console commands<br><br>
+<b>\\mute</b> : disable message sending feature of matched chat name client<br><br>
+<b>\\unmute</b> : enable message sending feature of matched chat name client<br><br>
+<b>\\discnt</b> : disconnect matched chat name from server<br>
+</p><br>
+<h3>CLIENT</h3>
+
