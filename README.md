@@ -15,11 +15,11 @@ Language: C++ <br><br>
 <img src = "https://user-images.githubusercontent.com/79594881/137641187-c91902f0-79b6-4938-a74b-a9a2990e5a04.png" align = "right"> </img>
 <p>
 <br>
-<b>\\clr</b> : clean the console<br><br>
-<b>\\help</b> : shows console commands<br><br>
-<b>\\mute</b> : disable message sending feature of matched chat name client<br><br>
-<b>\\unmute</b> : enable message sending feature of matched chat name client<br><br>
-<b>\\discnt</b> : disconnect matched chat name from server<br>
+<b>\clr</b> : clean the console<br><br>
+<b>\help</b> : shows console commands<br><br>
+<b>\mute</b> : disable message sending feature of matched chat name client<br><br>
+<b>\unmute</b> : enable message sending feature of matched chat name client<br><br>
+<b>\discnt</b> : disconnect matched chat name from server<br>
 </p><br>
 <br>
 <h3>CLIENT</h3>
